@@ -27,7 +27,7 @@ Interior proxies generator utility for FiveM to fix players being invisible or f
 
 --- Clear your FiveM Cache LOCALS files: https://youtu.be/pXIaRFIqyxI
 
---- Clear your FiveM Cache SERVER files https://youtu.be/1MsajSmlS-8
+--- Clear your FiveM Cache SERVER files: https://youtu.be/1MsajSmlS-8
 
 --- Restart your FiveM server and test the results!
 
