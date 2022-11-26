@@ -1,23 +1,35 @@
 # FiveM - Interior proxy creator
 
-Interior proxy creator for FiveM.
 
-## Installation
+# Details
 
-Use the following nodeJS commands or run install.cmd: 
+Interior proxies generator utility for FiveM to fix players being invisible or flashing. 
 
-```bash
-cd src
-npm install
-```
+--- Ensure you have node.js installed: https://nodejs.org/en/download/
+--- Place all your MLO and interior folder resources into the 'input' folder. 
+--- Double click the 'install' button then exit the window. 
+--- Double click the 'run' button and files are generated. 
 
-## Usage
+--- Review the 'output' folder for the 'interiorproxies' file.
+--- Drag and drop 'interiorproxies' file to the 'interiors-streamer' folder hat is included with this repo. 
 
-1. Upload all interiors to the input folder.
-2. After that run start.cmd. Resource will be created in the /output/ folder.
+--- Drag and drop 'interiors-streamer' folder into your FiveM 'resources' folder. 
+--- Add 'ensure interiors-streamer' to your server configuration file. 
+--- Clear your FiveM local cache in the FiveM Applicatin Data folder. 
+--- Clear your FiveM server cache: https://zap-hosting.com/guides/docs/en/fivem_deletecache/
+--- Restart your server and test the results. 
 
-## Required
-[NodeJS](https://nodejs.org/en/NodeJS)
+# Framework
+https://github.com/qbcore-framework
 
-## License
-[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
+# Dependencies
+
+Node.js https://nodejs.org/en/download/
+
+# Optional
+
+None
+
+# Purchased
+
+None
