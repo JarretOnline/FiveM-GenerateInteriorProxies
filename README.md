@@ -9,9 +9,9 @@ Interior proxies generator utility for FiveM to fix players being invisible or f
 
 --- Place all your MLO and interior folder resources into the 'input' folder. 
 
---- Double click the 'install' button then exit the window. 
+--- Double click the 'install' file and then exit the window. 
 
---- Double click the 'run' button and files are generated. 
+--- Double click the 'start' file and files are generated. 
 
 
 
